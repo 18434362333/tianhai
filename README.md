@@ -19,3 +19,5 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+git push -u 用法 加了参数-u后，以后即可直接用git push 代替git push origin master
+
